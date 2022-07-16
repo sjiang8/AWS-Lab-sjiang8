@@ -1,0 +1,4 @@
+Key: 7068710.jpg
+Key Id: cfa2fbbb-3ed4-4524-a3ba-84874b5e19c2
+Last modified: July 15, 2022, 20:30:47 (UTC-04:00)
+S3 URL: s3://mycloudtrailbucket0831/7068710.jpgzS
